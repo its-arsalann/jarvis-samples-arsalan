@@ -8,10 +8,10 @@
 		<version>2.2.2.RELEASE</version>
 		<relativePath/>
 	</parent>
-	<groupId>com.cloud.services</groupId>
-	<artifactId>spring-get-players</artifactId>
+	<groupId>com.cloud</groupId>
+	<artifactId>services</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring-get-players</name>
+	<name>services</name>
 
 	<properties>
 		<java.version>1.8</java.version>
